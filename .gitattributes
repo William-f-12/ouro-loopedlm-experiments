@@ -1,0 +1,3 @@
+# Preserve exact source bytes: experiment manifests hash files, including CRLF.
+# -text disables newline conversion without disabling normal text diffs.
+* -text

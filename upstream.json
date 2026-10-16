@@ -1,0 +1,23 @@
+{
+  "model_id": "ByteDance/Ouro-1.4B-Thinking",
+  "revision": "3aaa2224253a92ca45cf2e3d427c360e1ef9c93d",
+  "license": "Apache-2.0",
+  "model_card": "https://huggingface.co/ByteDance/Ouro-1.4B-Thinking",
+  "files": {
+    "ouro_local/modeling_ouro.py": {
+      "url": "https://huggingface.co/ByteDance/Ouro-1.4B-Thinking/resolve/3aaa2224253a92ca45cf2e3d427c360e1ef9c93d/modeling_ouro.py",
+      "sha256": "cb8c980b016ae8ae35b6c1193633b9b4496e89993e3a0e8c7853324f01904b30",
+      "bytes": 35500
+    },
+    "ouro_local/configuration_ouro.py": {
+      "url": "https://huggingface.co/ByteDance/Ouro-1.4B-Thinking/resolve/3aaa2224253a92ca45cf2e3d427c360e1ef9c93d/configuration_ouro.py",
+      "sha256": "950443e32929047aa08d02abad2e1888bc1914b3db988d3d675f70787f65dafb",
+      "bytes": 11550
+    },
+    "ouro_local/config.json": {
+      "url": "https://huggingface.co/ByteDance/Ouro-1.4B-Thinking/resolve/3aaa2224253a92ca45cf2e3d427c360e1ef9c93d/config.json",
+      "sha256": "44e42ec2ed97f49f20f87985688b6e1be9dd61bbfe9f8a349daac192126e2c55",
+      "bytes": 1471
+    }
+  }
+}
